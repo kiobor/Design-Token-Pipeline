@@ -1,0 +1,23 @@
+{
+  "color": {
+    "primary": {
+      "$value": "#0066ff",
+      "$type": "color",
+      "$description": "Primary brand color"
+    },
+    "secondary": {
+      "$value": "#6b7280",
+      "$type": "color"
+    }
+  },
+  "spacing": {
+    "sm": {
+      "$value": "8px",
+      "$type": "dimension"
+    },
+    "md": {
+      "$value": "16px",
+      "$type": "dimension"
+    }
+  }
+}
